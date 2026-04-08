@@ -1,5 +1,22 @@
 ## Summary
 
+Brief description of the change and the problem it solves.
+
+## Related issues
+- Closes: 
+
+## Changes
+- What I changed and why.
+
+## Checklist
+- [ ] I have read the CONTRIBUTING guide
+- [ ] Tests added/updated
+- [ ] Documentation updated (if applicable)
+
+## Notes for reviewers
+Any specific guidance for reviewers.
+## Summary
+
 Describe the change and why it is needed.
 
 ## Checklist
